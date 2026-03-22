@@ -31,7 +31,7 @@ export const Footer = () => {
 
                 <div className="flex flex-col md:flex-row justify-between items-center gap-12">
                     <p className="text-sm font-black text-berry/30 uppercase tracking-[0.5em]">
-                        © 2026 Neetu Kannaujiya. Built with <span className="text-neon-pink">♥</span> & React
+                        © 2026 Neetu Kannaujiya. Built with <span className="text-neon-pink">♥</span>
                     </p>
                     <motion.button
                         whileHover={{ y: -10 }}

@@ -68,7 +68,7 @@ export const Hero = () => {
                     <div className="relative h-full w-full overflow-hidden rounded-[3rem] bg-white/40 border-[8px] border-white/60 backdrop-blur-sm neon-glow-pink animate-float">
                         <div className="absolute inset-0">
                             <Image
-                                src="/a-kriti-1.0.jpeg"
+                                src="/generated/hero-lg.webp"
                                 alt="Neetu Kannaujiya"
                                 fill
                                 className="object-cover transition-transform duration-700 group-hover:scale-110"
