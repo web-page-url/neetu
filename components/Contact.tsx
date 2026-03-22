@@ -16,10 +16,10 @@ export const Contact = () => {
                     className="space-y-6 mb-20"
                 >
                     <h2 className="font-serif text-6xl md:text-8xl font-black text-berry leading-tight">
-                        Educational <br /> <span className="gradient-text neon-text-pink italic">Collaboration?</span>
+                        आइए मिलकर <br /> <span className="gradient-text neon-text-pink italic">सहयोग करें (Connect)</span>
                     </h2>
                     <p className="mx-auto max-w-3xl text-2xl font-bold text-berry/70 leading-relaxed italic">
-                        "If you value student-centered learning, engaging teaching methods, and holistic education, let's connect and build something meaningful."
+                        "यदि आप छात्र-केंद्रित शिक्षा और प्रभावशाली शिक्षण में विश्वास करते हैं, तो आइए मिलकर कुछ सार्थक बनाएं।"
                     </p>
                 </motion.div>
 

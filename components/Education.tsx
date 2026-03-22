@@ -6,33 +6,33 @@ import { GraduationCap, Award, BookOpen, Star } from "lucide-react";
 export const Education = () => {
     const education = [
         {
-            degree: "Bachelor of Education (B.Ed.)",
-            school: "Geography & History",
-            duration: "2024 - Present",
+            degree: "शिक्षा स्नातक (B.Ed.)",
+            school: "भूगोल और इतिहास (Geography & History)",
+            duration: "2024 - वर्तमान",
             details: "Pursuing professional teaching qualification with focus on secondary classroom instruction.",
             icon: <GraduationCap className="h-6 w-6 text-neon-pink" />,
             color: "from-neon-pink/10 to-sakura/10"
         },
         {
-            degree: "Bachelor of Arts (B.A.)",
-            school: "Sarvajeet Kaushal Public Mahavidyalaya",
+            degree: "कला स्नातक (B.A.)",
+            school: "सर्वजीत कौशल पब्लिक महाविद्यालय",
             duration: "2021 - 2024",
             details: "CGPA: 7.63/10. Core Subjects: Geography, History, Sociology, Hindi.",
             icon: <BookOpen className="h-6 w-6 text-neon-purple" />,
             color: "from-neon-purple/10 to-lavender-mist/10"
         },
         {
-            degree: "Higher Secondary (Class 12)",
-            school: "Netaji Subhash Chandra Bose Inter College",
-            duration: "Completed 2020",
+            degree: "उच्च माध्यमिक (कक्षा 12)",
+            school: "नेताजी सुभाष चंद्र बोस इंटर कॉलेज",
+            duration: "पूर्ण 2020",
             details: "Arts Stream - Sant Kabir Nagar, UP Board.",
             icon: <Award className="h-6 w-6 text-sakura" />,
             color: "from-peach-cream/10 to-neon-pink/10"
         },
         {
-            degree: "High School (Class 10)",
-            school: "Sarvjeet Kaushal Public Mahavidyalaya",
-            duration: "Completed 2018",
+            degree: "हाई स्कूल (कक्षा 10)",
+            school: "सर्वजीत कौशल पब्लिक महाविद्यालय",
+            duration: "पूर्ण 2018",
             details: "Pendari Buzurg, Bansi Dhani Marg, Siddharth Nagar, UP Board.",
             icon: <BookOpen className="h-6 w-6 text-neon-pink" />,
             color: "from-neon-pink/10 to-sakura/10"
@@ -48,7 +48,7 @@ export const Education = () => {
                     viewport={{ once: true }}
                     className="text-center mb-24 space-y-4"
                 >
-                    <h2 className="font-serif text-5xl font-black text-berry uppercase tracking-tighter">Academic <span className="gradient-text neon-text-pink italic">Journey</span></h2>
+                    <h2 className="font-serif text-5xl font-black text-berry uppercase tracking-tighter">मेरी <span className="gradient-text neon-text-pink italic">शिक्षा (Education)</span></h2>
                     <p className="text-neon-pink font-black uppercase tracking-[0.4em] text-sm">Where My Learning Journey Started!</p>
                 </motion.div>
 

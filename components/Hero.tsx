@@ -31,11 +31,12 @@ export const Hero = () => {
                             <span className="gradient-text neon-text-pink">Educator</span>
                         </h1>
                         <p className="font-serif text-3xl italic text-berry/70 md:text-4xl">
-                            Empowering Students, Shaping Futures.
+                            छात्रों को सशक्त बनाना, भविष्य को संवारना <br />
+                            <span className="text-xl not-italic opacity-60">(Empowering Students, Shaping Futures)</span>
                         </p>
                     </div>
                     <p className="max-w-xl text-2xl leading-relaxed font-semibold text-berry/80">
-                        I'm Neetu Kannaujiya, a passionate aspiring educator pursuing a Bachelor of Education (B.Ed.). I specialize in <span className="text-neon-pink underline decoration-wavy underline-offset-8">Geography</span> & History, committed to creating engaging, student-centered <span className="gradient-text font-black">learning environments</span> for holistic academic growth.
+                        नमस्ते, मैं <span className="gradient-text font-black">नीतू </span> हूँ, एक उत्साही शिक्षक। I'm pursuing a Bachelor of Education (B.Ed.), specializing in Geography & History. मेरा लक्ष्य छात्रों के लिए एक <span className="text-neon-pink underline decoration-wavy underline-offset-8">प्रेरक और छात्र-केंद्रित</span> वातावरण बनाना है।
                     </p>
                     <div className="flex flex-wrap gap-6 justify-center lg:justify-start">
                         <motion.a
@@ -44,7 +45,7 @@ export const Hero = () => {
                             href="#contact"
                             className="bg-gradient-to-r from-neon-pink to-neon-purple text-white px-10 py-5 soft-rounded font-black text-lg neon-glow-pink transition-all flex items-center gap-3"
                         >
-                            Connect! <Rocket className="h-6 w-6" />
+                            संपर्क करें! (Connect) <Rocket className="h-6 w-6" />
                         </motion.a>
                         <div className="flex items-center gap-6">
                             <motion.a

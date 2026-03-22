@@ -16,7 +16,7 @@ export const WorkExperience = () => {
                         className="lg:w-1/3 space-y-8"
                     >
                         <h2 className="font-serif text-5xl font-black text-berry leading-tight">
-                            Work <br /> <span className="gradient-text neon-text-pink italic">Experience</span>
+                            मेरा कार्य <br /> <span className="gradient-text neon-text-pink italic">अनुभव (Experience)</span>
                         </h2>
                         <div className="h-2 w-24 bg-gradient-to-r from-neon-pink to-neon-purple rounded-full animate-pulse neon-glow-pink" />
                         <p className="text-xl font-bold text-berry/60 italic leading-relaxed font-serif">"Precision meets professional soul."</p>
@@ -55,8 +55,8 @@ export const WorkExperience = () => {
                                 </div>
                                 <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
                                     <div>
-                                        <h3 className="font-serif text-3xl font-bold text-berry">Government / Affiliated School</h3>
-                                        <p className="gradient-text font-black tracking-widest uppercase text-sm">Student Teacher – B.Ed. Internship</p>
+                                        <h3 className="font-serif text-3xl font-bold text-berry">सरकारी / संबद्ध स्कूल</h3>
+                                        <p className="gradient-text font-black tracking-widest uppercase text-sm">प्रशिक्षण शिक्षक (B.Ed. Internship)</p>
                                     </div>
                                     <div className="px-6 py-2 bg-neon-pink/10 rounded-full border border-neon-pink/20 text-xs font-black text-neon-pink flex items-center gap-2">
                                         <Star className="h-3 w-3 fill-neon-pink" /> 2024 - Present
@@ -97,8 +97,8 @@ export const WorkExperience = () => {
                                 </div>
                                 <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
                                     <div>
-                                        <h3 className="font-serif text-3xl font-bold text-berry">Home Tuition — Self-Employed</h3>
-                                        <p className="text-neon-purple font-black tracking-widest uppercase text-sm">Private Tutor</p>
+                                        <h3 className="font-serif text-3xl font-bold text-berry">होम ट्यूशन – स्वरोजगार</h3>
+                                        <p className="text-neon-purple font-black tracking-widest uppercase text-sm">निजी शिक्षक (Private Tutor)</p>
                                     </div>
                                     <div className="px-6 py-2 bg-neon-purple/10 rounded-full border border-neon-purple/20 text-xs font-black text-neon-purple flex items-center gap-2">
                                         <Activity className="h-3 w-3" /> 2023 - Present

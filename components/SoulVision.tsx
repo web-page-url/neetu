@@ -6,14 +6,14 @@ import { Target, Star, Eye, Rocket, Briefcase, TrendingUp } from "lucide-react";
 export const SoulVision = () => {
     const goals = [
         {
-            type: "Short-Term",
+            type: "अल्पकालिक लक्ष्य (Short-Term)",
             icon: <Target className="h-6 w-6 text-neon-pink" />,
-            desc: "Successfully completing Bachelor of Education (B.Ed.) and mastering modern pedagogical techniques for secondary education."
+            desc: "शिक्षण कौशल में महारत हासिल करना और माध्यमिक विद्यालयों के लिए प्रभावी शैक्षिक सामग्री बनाना।"
         },
         {
-            type: "Long-Term",
+            type: "दीर्घकालिक लक्ष्य (Long-Term)",
             icon: <TrendingUp className="h-6 w-6 text-neon-purple" />,
-            desc: "Building a long-term career as an impactful secondary school teacher and contributing to global education reform initiatives."
+            desc: "Building an impactful career as a teacher. एक ऐसा शिक्षा मॉडल विकसित करना जो समावेशन और समग्र विकास पर केंद्रित हो।"
         }
     ];
 

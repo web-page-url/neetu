@@ -58,8 +58,8 @@ export const Skills = () => {
                     viewport={{ once: true }}
                     className="text-center mb-24 space-y-4"
                 >
-                    <h2 className="font-serif text-5xl font-black text-berry">Superpowers ✨</h2>
-                    <p className="gradient-text font-black uppercase tracking-[0.4em] text-sm italic">My magical digital toolkit</p>
+                    <h2 className="font-serif text-5xl font-black text-berry">मेरे <span className="gradient-text neon-text-pink italic">कौशल (Skills)</span></h2>
+                    <p className="gradient-text font-black uppercase tracking-[0.4em] text-sm italic">Expertise in Teaching & Pedagogy</p>
                 </motion.div>
 
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8">

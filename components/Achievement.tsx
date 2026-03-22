@@ -23,8 +23,8 @@ export const Achievement = () => {
                         viewport={{ once: true }}
                         className="space-y-8"
                     >
-                        <h2 className="font-serif text-5xl font-black leading-tight text-berry">Areas <br /> Of <span className="gradient-text neon-text-pink italic">Excellence</span></h2>
-                        <p className="text-xl font-bold text-berry/70 leading-relaxed">Milestones in my journey of ensuring educational excellence and student success.</p>
+                        <h2 className="font-serif text-5xl font-black leading-tight text-berry">मेरी <br /> <span className="gradient-text neon-text-pink italic">उपलब्धियां (Achievements)</span></h2>
+                        <p className="text-xl font-bold text-berry/70 leading-relaxed italic">"शिक्षा के क्षेत्र में मेरी यात्रा के मुख्य पड़ाव।"</p>
                         <div className="h-1 w-20 bg-neon-pink rounded-full shadow-lg neon-glow-pink" />
 
                         <motion.div

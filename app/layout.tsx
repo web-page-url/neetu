@@ -16,16 +16,16 @@ const quicksand = Quicksand({
 });
 
 export const metadata: Metadata = {
-  title: "Neetu Kannaujiya | Aspiring Educator",
-  description: "B.Ed. Candidate specializing in Geography & History. Dedicated to creating engaging, inclusive, and student-centered learning environments.",
-  keywords: ["Neetu Kannaujiya", "Aspiring Educator", "Geography Teacher", "History Teacher", "B.Ed Candidate", "Portfolio", "Educator"],
-  authors: [{ name: "Neetu Kannaujiya" }],
+  title: "Neetu | Aspiring Educator",
+  description: "Neetu  | Aspiring Educator. Dedicated and Passionate Aspiring Educator.",
+  keywords: ["Neetu", "Aspiring Educator", "Geography Teacher", "History Teacher", "B.Ed Candidate", "Portfolio", "Educator"],
+  authors: [{ name: "Neetu " }],
   metadataBase: new URL("https://neetu.vercel.app/"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
-    title: "Neetu Kannaujiya | Aspiring Educator",
+    title: "Neetu | Aspiring Educator",
     description: "Dedicated and passionate aspiring educator currently pursuing Bachelor of Education (B.Ed.).",
     url: "https://neetu.vercel.app",
     siteName: "Neetu's Portfolio",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Neetu Kannaujiya | Aspiring Educator",
-    description: "B.Ed. Candidate specializing in Geography & History. Aspiring teacher dedicated to student growth.",
+    description: "Dedicated and passionate aspiring educator. Aspiring teacher dedicated to student growth.",
     images: ["/generated/og-image.jpg"],
   },
   icons: {
