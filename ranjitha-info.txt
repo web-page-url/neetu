@@ -1,0 +1,350 @@
+Here is detailed, point-wise portfolio website content extracted and expanded from the resume so you can directly use it in your portfolio website sections (Hero, About, Skills, Experience, Projects, Awards, etc.).
+
+1. Hero Section (Intro Section)
+
+Name:
+Ranjitha DS
+
+Role / Title:
+Software Test Engineer | Manual & Automation Testing Specialist
+
+Location:
+Bengaluru, India
+
+Professional Summary (Short Intro):
+
+Software Test Engineer with 4+ years of experience in Telecommunication and FinTech domains specializing in Manual Testing, Automation Testing, and API Testing. Experienced in building robust automation frameworks using Selenium with Java, TestNG, and Maven. Skilled in API automation with Postman, database validation using MySQL, and defect tracking with Jira. Passionate about delivering high-quality software by designing efficient test strategies, identifying defects early, and collaborating with cross-functional teams. 
+
+Resume (7) (1)
+
+Quick Info
+
+Experience: 4+ Years
+
+Domain: Telecommunication & FinTech
+
+Expertise: Test Automation, API Testing, Functional Testing
+
+Tools: Selenium, Postman, Jira, Swagger, Splunk
+
+Location: Bengaluru, India
+
+Links
+
+LinkedIn
+
+GitHub
+
+Email
+
+Phone
+
+2. About Me Section
+
+Professional Overview
+
+I am a dedicated Software Test Engineer with strong experience in both manual and automation testing. Over the past four years, I have worked on enterprise-level applications in the Telecommunication and Financial Technology industries, ensuring software reliability, performance, and security.
+
+My work focuses on building automation frameworks, executing test strategies, validating APIs, and ensuring seamless integration between system components.
+
+I have experience working in Agile environments, collaborating closely with developers, product managers, and business teams to deliver high-quality products.
+
+I enjoy solving complex testing challenges and continuously improving testing processes through automation and modern testing practices.
+
+Key strengths include:
+
+Designing efficient test cases
+
+Automating repetitive testing tasks
+
+Identifying defects early in development
+
+Ensuring end-to-end system reliability
+
+Maintaining high product quality standards
+
+3. Technical Skills Section
+Automation Testing
+
+Selenium WebDriver
+
+Java based test automation
+
+TestNG framework
+
+Maven build management
+
+Hybrid automation frameworks
+
+Manual Testing
+
+Functional Testing
+
+Integration Testing
+
+Smoke Testing
+
+Sanity Testing
+
+Regression Testing
+
+End-to-End Testing
+
+User Acceptance Testing (UAT)
+
+Unit Testing
+
+API Testing
+
+Postman
+
+API Automation
+
+REST API validation
+
+Request/Response validation
+
+API workflow testing
+
+Tools & Platforms
+
+Jira (Defect tracking & test management)
+
+Swagger (API documentation validation)
+
+Splunk (log monitoring and analysis)
+
+Git & GitHub (version control)
+
+Database Testing
+
+MySQL
+
+SQL queries
+
+Data validation
+
+Backend data verification
+
+Development Methodologies
+
+Agile
+
+Scrum
+
+Continuous Testing
+
+SDLC
+
+STLC
+
+4. Work Experience Section
+QA Engineer
+
+Aditi Consulting | Bengaluru, India
+June 2022 – February 2025
+
+Project
+
+T-Mobile – Problem Incident Enhancement Resolution (PIER)
+
+Responsibilities
+
+Performed regression testing to verify system stability after code changes.
+
+Conducted sanity testing to ensure core functionality worked after bug fixes.
+
+Executed GUI testing to validate user interface elements and usability.
+
+Designed and executed functional test cases based on business requirements.
+
+Performed API testing to validate backend services and integrations.
+
+Created and executed API test flows using Postman.
+
+Developed automation scripts using Selenium, Java, and TestNG.
+
+Participated in requirement analysis meetings and client discussions.
+
+Used Swagger to review and validate API documentation.
+
+Logged, tracked, and managed defects using Jira.
+
+Collaborated with developers to resolve issues quickly.
+
+Software Test Engineer
+
+Aditi Consulting | Bengaluru, India
+February 2025 – Present
+
+Project
+
+PayPal – Application Registration Service (ARS)
+
+Responsibilities
+
+Designed and executed functional and system test cases for asset compliance and configuration verification.
+
+Conducted integration testing to validate communication between system components.
+
+Performed end-to-end testing of the Application Registration Service (ARS).
+
+Executed manual and automated testing to validate application workflows.
+
+Performed database testing using SQL queries to ensure backend data accuracy.
+
+Validated asset records and configuration attributes across systems.
+
+Automated ServiceNow CMDB updates and workflows.
+
+Developed automation scripts using Java, Selenium, and TestNG.
+
+Logged and tracked defects using JIRA.
+
+Worked in an Agile Scrum environment with service management teams.
+
+Performed regression testing before production releases.
+
+5. Projects Section (Portfolio Projects)
+Telecom Automation Testing Project
+
+Client: T-Mobile
+
+Key Contributions:
+
+Developed automated UI test scripts using Selenium.
+
+Validated API services using Postman.
+
+Executed regression test suites before deployments.
+
+Ensured stable integration between telecom services.
+
+Technologies Used
+
+Selenium
+
+Java
+
+TestNG
+
+Postman
+
+Jira
+
+FinTech Enterprise Testing Project
+
+Client: PayPal
+
+Key Contributions:
+
+Tested enterprise asset management systems.
+
+Validated configuration data across multiple systems.
+
+Automated ServiceNow CMDB workflows.
+
+Ensured data consistency between UI and backend systems.
+
+Technologies Used
+
+Selenium
+
+Java
+
+TestNG
+
+SQL
+
+Jira
+
+6. Awards & Recognitions Section
+
+Helping Hand Award – Q3 2023
+
+Rising Star Award – Q2 2024
+
+Outstanding Performance Award – 2024
+
+Mover of the Mountain Award – Q4 2025
+
+Customer Champion Award – Q3 2025 
+
+Resume (7) (1)
+
+These awards were received in recognition of:
+
+Exceptional contribution to project delivery
+
+Consistent high performance
+
+Strong collaboration with cross-functional teams
+
+Commitment to quality assurance excellence
+
+7. Education Section
+
+Bachelor of Engineering (BE)
+Visvesvaraya Technological University (VTU)
+Graduated: 2018 
+
+Resume (7) (1)
+
+8. Certifications Section
+
+Software Testing Certification
+The Testing Academy
+Completed: June 2021 
+
+Resume (7) (1)
+
+9. GitHub Section
+
+Repository
+
+Magento Testing Repository
+
+Highlights
+
+Automation testing scripts
+
+Selenium based automation framework
+
+Test case implementations
+
+10. Contact Section
+
+Location
+Bengaluru, India
+
+Phone
++91-9901106068
+
+Email
+kushyds15@gmail.com
+
+LinkedIn
+linkedin.com/in/ranjitha-ds-428090153
+
+GitHub
+github.com/RanjithaDS2
+
+✅ This content is portfolio-ready and structured for sections like:
+
+Hero
+
+About
+
+Skills
+
+Experience
+
+Projects
+
+Awards
+
+Education
+
+Certifications
+
+Contact

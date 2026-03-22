@@ -1,0 +1,124 @@
+@import "tailwindcss";
+
+@theme {
+  --color-petal-pink: #FFF0F3;
+  --color-rose-blush: #FFC2D1;
+  --color-sakura: #FF8FAB;
+  --color-lavender-mist: #F3E5F5;
+  --color-peach-cream: #FFD1BC;
+  --color-berry: #7C3A66;
+  --color-sparkle-gold: #FFD700;
+  --color-neon-pink: #E11D74;
+  --color-neon-purple: #BF00FF;
+
+  --font-serif: var(--font-playfair), serif;
+  --font-sans: var(--font-quicksand), sans-serif;
+}
+
+:root {
+  --background: #FFF5F8;
+  --foreground: #4A2B33;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-quicksand), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+.font-serif {
+  font-family: var(--font-playfair), serif;
+}
+
+.soft-rounded {
+  border-radius: 2.5rem;
+}
+
+.cute-shadow {
+  box-shadow: 0 10px 40px -10px rgba(255, 143, 171, 0.4);
+}
+
+.neon-glow-pink {
+  box-shadow: 0 0 15px rgba(225, 29, 116, 0.5), 0 0 30px rgba(225, 29, 116, 0.2);
+}
+
+.neon-text-pink {
+  text-shadow: 0 0 5px rgba(225, 29, 116, 0.8), 0 0 10px rgba(225, 29, 116, 0.5);
+}
+
+.glass-pink {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 194, 209, 0.6);
+}
+
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-15px) rotate(3deg);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes twinkle {
+
+  0%,
+  100% {
+    opacity: 0.4;
+    transform: scale(0.9);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+}
+
+.animate-twinkle {
+  animation: twinkle 4s ease-in-out infinite;
+}
+
+@keyframes pulse-neon {
+
+  0%,
+  100% {
+    box-shadow: 0 0 10px rgba(225, 29, 116, 0.4);
+  }
+
+  50% {
+    box-shadow: 0 0 25px rgba(225, 29, 116, 0.7);
+  }
+}
+
+.animate-pulse-neon {
+  animation: pulse-neon 2s infinite;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #E11D74, #BF00FF);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, #FFF0F3 0%, #F3E5F5 100%);
+}
+
+.gradient-sakura {
+  background: linear-gradient(135deg, #FF8FAB, #FFC2D1);
+}

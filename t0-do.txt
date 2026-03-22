@@ -1,0 +1,182 @@
+🧭 NAV BAR (CONTENT)
+
+Left (Name / Brand)
+Akriti 
+
+Right (Navigation Items)
+
+Overview
+
+Expertise
+
+Impact
+
+Global Work
+
+Contact
+
+Primary Action (Text-only CTA)
+Download Resume
+
+🪶 HERO / EXECUTIVE INTRO
+
+Name (Primary Heading)
+Akriti 
+
+Title (Subheading)
+Senior Data Scientist · Analytics & Decision Intelligence
+
+Executive Statement
+
+Designing data systems that convert complexity into clarity and insight into action.
+
+Supporting Line
+
+Specializing in scalable analytics, machine learning, and executive-facing intelligence for global organizations.
+
+📖 PROFESSIONAL NARRATIVE SECTION
+Left Column — Narrative
+
+I am a Data Scientist with a strong foundation in analytics, machine learning, and data-driven strategy.
+
+My work focuses on transforming raw data into structured intelligence that supports executive decision-making, operational efficiency, and long-term business outcomes.
+
+I value precision, restraint, and clarity — both in code and in communication — ensuring that insights are not only accurate, but actionable.
+
+Right Column — Key Statistics
+
+Key Facts
+
+Experience: 3+ Years
+
+Specialization: Analytics, ML, Decision Intelligence
+
+Industries: Consulting, Technology, Operations
+
+Regions: India · Japan
+
+🧠 EXPERTISE / TECHNICAL ARCHITECTURE
+Core Expertise
+
+Data & Analytics
+
+Exploratory Data Analysis
+
+Statistical Modeling
+
+Predictive Analytics
+
+Machine Learning
+
+Classification & Regression
+
+Clustering Techniques
+
+Model Evaluation & Optimization
+
+Programming
+
+Python
+
+SQL
+
+C++
+
+Tools & Platforms
+
+Pandas · NumPy
+
+Jupyter Notebook
+
+MySQL
+
+Git & Version Control
+
+🏗️ IMPACT PROJECTS
+Project 1
+
+Operational Intelligence Automation
+
+Problem
+Manual reporting workflows caused delays and inconsistencies across teams.
+
+Key Result
+
+Reduced reporting latency by 38% and improved data reliability across multiple business units.
+
+Project 2
+
+Predictive Risk Modeling
+
+Problem
+Lack of predictive insight limited proactive decision-making.
+
+Key Result
+
+Delivered machine learning models that enabled early risk identification and improved planning accuracy.
+
+Project 3
+
+Data-Driven Product Insights
+
+Problem
+Product teams lacked visibility into user behavior trends.
+
+Key Result
+
+Identified performance drivers and decline signals, directly influencing roadmap prioritization.
+
+🌍 GLOBAL FOOTPRINT
+
+Section Statement
+
+Delivering data-driven solutions across borders and cultures.
+
+Journey Caption
+
+Origin: India
+
+Professional Experience: Japan
+
+Supporting Line
+
+Experience working with diverse teams and stakeholders across international environments.
+
+🏆 ACHIEVEMENTS & RECOGNITION
+
+Ranked among top performers in national-level coding and analytics competitions
+
+Recognized for open-source contributions and technical leadership
+
+Strong competitive programming background with consistent performance metrics
+
+Trusted for high-responsibility analytical tasks and presentations
+
+📬 CONTACT / CALL TO ACTION
+
+Heading
+Let’s Connect
+
+Body Copy
+
+If you’re interested in data strategy, analytics leadership, or collaboration on impactful work, I welcome the conversation.
+
+Contact Options
+
+Email
+
+LinkedIn
+
+GitHub
+
+CTA Button Text
+Contact Me
+
+🪞 FOOTER
+
+Footer Text
+
+Designed with precision, clarity, and restraint.
+
+Copyright
+© 2026 Akriti 

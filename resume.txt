@@ -1,0 +1,88 @@
+AKRITI
+B.Tech, Data Science, IIT Mandi
+\faAt : akriti1852@gmail.com \faPhone : +91-8957125737 \faGithub : /A-kriti \faMapMarker : India \faLinkedin : /akriti-b677181a2/
+\faGlobe : a-kriti.github.io/About/
+INTERNSHIP
+Frontrow: Data Science and Operations Intern
+z November-January, 2022
+• Automate user attendance at multiple events that occurs every day.
+• Identify the app’s top leading/losing communities and recommend several enhancement methods based on data from the last 30 and 90 days.
+• Collected data regarding the back-end queries which were linked with
+the user interface.
+• Technology used - Python, Google APIs, Data Processing, Numpy, Pandas, Matplotlib
+PROJECTS
+Open Source GSSOC’21 Contribution
+z March-May, 2021 * Project Link
+• FaceX: Developed Snapchat/Instagram filters using OpenCV, Numpy,
+and Matplotlib Python libraries.
+Machine learning Projects
+z IIT Mandi, 2020
+• Covid-19(Age Prediction):- Used real-time Covid-19 data to predict the
+anticipated age of those with a higher risk of infection.
+• Google Assistant:- Built an artificial intelligence-powered virtual assistant using python libraries.
+• Clustering:- Performed three distinct types of clustering—K-means,
+GMM, and DBSCAN—on a given data set and compared the results of
+data scattering.
+Android Game Development( Co-Founder of Crazzy Dreams)
+z August-September, 2020 * Google Play Store
+• Developed two android game Ally and Pirates Run, using Unity3D, and
+C# and launched them on Google Play Store.
+Web Development
+z January-April 2021 * Personal Portfolio
+• Created a personal portfolio from scratch using HTML, CSS, and JavaScript.
+• Delhi Tourism Website:- Contributed to the development of this website, which features details on several tourist attractions in Delhi.
+EDUCATION
+B.Tech Data Science, IIT Mandi
+z 2019 – 2023 * IIT Mandi, Himachal Pradesh
+Scored 7.41 CGPA
+Higher Secondary Education(CBSE)
+z 2019 * JNV Lucknow(Dakshana)
+Scored 82.6%
+Primary Education(CBSE)
+z 2017 * JNV Maharajganj
+Scored 10 CGPA
+KEY SKILLS
+Programming Language C++, Python
+Web Based Language HTML, CSS, JS
+DBMS MySQL
+Tools and Technologies Github, OpenCV
+Numpy, Pandas
+Jupyter Notebook,
+Unity3D, MS Excel
+Soft Skills Leadership,Teamwork
+Problem Solving
+ACHIEVEMENTS
+Open Source GSSOC’21
+• Got the label of Top Performer by holding 27th
+position in GSSOC’21.
+• Received Letter of Recommendation from
+GSSOC team.
+• Awarded with Goodies and Badges from GSSOC’21
+team.
+Competitive Programming
+• Secured 47th place out of 73000 women
+coders in the Tech-Gig Geek Goddess Coding
+Competition.
+• Selected in TechGig Geek Goddess 2021 Grand
+Finale!
+• Received Geeks for Geeks merchandise for
+Problem Solving.
+• 5 Star Programmer on Hackerrank
+• Scored 750+ Points on GFG
+• Scored 550+ Points on Leetcode for problem
+solving.
+Leadership
+• Core Team Member Of Designing Club DESIGNUTS, IIT Mandi.
+• Delivered a presentation on Game Development to more than 100 attendees at a workshop hosted by the IIT Mandi Programming
+Club, sharing views about the field and it’s future with AR/VR.
+• Invigilated and ensured the smooth conduct of
+Dakshana Selection Test 2019 in which over
+200+ students participated at that center.
+Activity
+• Dakshana Scholar for free IIT JEE Coaching at
+JNV Lucknow.
+• Completed the project Mandates of Landslide
+Monitoring and Early Warning for Himachal
+Pradesh which was implemented at IIT Mandi.
+• Participated in the first phase of Myntra HackerRamp: WeForShe, which was organized by
+Myntra.

@@ -1,0 +1,287 @@
+🕊️ ANTI-GRAVITY MASTER PROMPT
+Regal Minimalist Portfolio for a Female Data Scientist
+
+(Quiet Luxury · Executive · Editorial · Mobile-First)
+
+ROLE & OBJECTIVE
+
+You are a luxury UI/UX designer specializing in executive digital identities.
+
+Your task is to design a highly professional, minimalist, regal portfolio website for a Female Data Scientist working at a global consulting firm (Accenture-level).
+
+The design must communicate:
+
+Authority
+
+Intelligence
+
+Calm confidence
+
+Executive maturity
+
+Avoid anything playful, childish, overly colorful, or trendy.
+
+This is Quiet Luxury, not startup flash.
+
+🎨 COLOR SYSTEM — “CHAMPAGNE & SLATE”
+
+Use muted jewel tones and sophisticated neutrals only.
+
+Primary Base – Alabaster White #F9F9F9
+Warm, expensive-looking off-white. Never use pure white.
+
+Secondary Base – Muted Champagne #F2E8DF
+Used for section separation and depth without visual noise.
+
+Accent 1 – Antique Rose #D8A7B1
+Desaturated, grown-up pink.
+Use sparingly for high-value actions only (CTA, location markers).
+
+Accent 2 – Smoky Twilight #958DA5
+Grey-leaning lavender for highlights, borders, and key results.
+
+Accent 3 – Silver Sage #A3B18A
+Muted metallic green for icons, tech stack, and data visuals.
+
+Primary Text – Charcoal Navy #2F3640
+Replace pure black. This is critical for a regal tone.
+
+✒️ TYPOGRAPHY SYSTEM
+
+Headings:
+Elegant, authoritative serif
+(Cinzel / Bodoni-style)
+Tight letter spacing, strong hierarchy.
+
+Body & Data Text:
+Light, modern sans-serif
+(Montserrat Light-style)
+Excellent readability for analytics and metrics.
+
+No decorative fonts
+
+No playful typography
+
+No excessive weights
+
+🧭 LAYOUT PHILOSOPHY
+
+Editorial, magazine-inspired grid
+
+Heavy use of white space
+
+Thin dividers only (1px)
+
+Perfect alignment
+
+Calm, structured vertical rhythm
+
+Mobile-first, then desktop-refined
+
+🧱 COMPONENT STRUCTURE (TOP → BOTTOM)
+1. EXECUTIVE HEADER / NAV BAR
+
+Minimal height
+
+Transparent with subtle champagne tint
+
+1px bottom border in Smoky Twilight
+
+Left:
+Full name in serif font (Charcoal Navy)
+
+Right:
+Text-only navigation
+
+Overview
+
+Expertise
+
+Impact
+
+Global Work
+
+Contact
+
+CTA (only accent):
+“Download Resume” — Antique Rose text, no fill
+
+2. EXECUTIVE INTRO (HERO)
+
+Layout
+
+Two-column (stacked on mobile)
+
+Left
+
+Name (large serif)
+
+Title:
+Senior Data Scientist | Analytics & Strategy
+
+One-line philosophy:
+
+“Designing data systems that inform decisions at scale.”
+
+Right
+
+Clean, monochrome professional portrait
+
+Soft glass panel (10–15% opacity)
+
+No shadows, only border
+
+Background: Alabaster White
+
+3. PROFESSIONAL NARRATIVE
+
+Two-column editorial layout
+
+Left – Narrative
+
+Data Scientist with experience across analytics, machine learning, and decision intelligence.
+Specialized in translating complex data into executive-level insights for global organizations.
+
+Right – Key Statistics Box
+
+Years of Experience
+
+Countries Worked
+
+Core Industries
+
+Key Technologies
+
+Box style:
+
+Muted Champagne background
+
+1px Silver Sage border
+
+4. TECHNICAL ARCHITECTURE (TECH STACK)
+
+Grid layout
+
+Icons only
+
+Silver Sage line icons
+
+Precise spacing
+
+Categories:
+
+Languages
+
+Data Tools
+
+ML Frameworks
+
+Cloud & Platforms
+
+No animations except subtle fade-in.
+
+5. IMPACT PROJECTS
+
+Wide, horizontal cards
+
+Full-width on desktop
+
+Stacked on mobile
+
+Each card contains:
+
+Project Title (Serif)
+
+One-line problem statement
+
+Key Result highlighted in Smoky Twilight
+
+Example:
+
+Reduced operational reporting latency by 38% across regional teams.
+
+No images unless strictly necessary.
+Focus on outcomes, not visuals.
+
+6. GLOBAL FOOTPRINT
+
+Minimalist world map (flat, no texture)
+
+India → Japan highlighted
+
+Location markers in Antique Rose
+
+Thin connecting line
+
+Caption:
+
+“Delivering data-driven solutions across borders.”
+
+7. CONTACT / CALL TO ACTION
+
+Background: Muted Champagne
+
+Text:
+
+Interested in data, strategy, or collaboration?
+
+Buttons
+
+Contact Me
+
+LinkedIn
+
+Buttons:
+
+Outline style
+
+Antique Rose accent only
+
+No glow, no shadow
+
+8. FOOTER
+
+Alabaster background
+
+Thin top divider
+
+Minimal text
+
+Content:
+
+© Designed with precision and restraint.
+
+Optional:
+
+Small back-to-top arrow in Silver Sage
+
+🧠 DESIGN RULES (NON-NEGOTIABLE)
+
+No bright colors
+
+No playful illustrations
+
+No emojis
+
+No heavy shadows
+
+No gradients beyond subtle background blending
+
+Confidence through restraint
+
+Luxury through silence and space
+
+FINAL QUALITY BAR
+
+This website should feel appropriate for:
+
+Accenture
+
+McKinsey Digital
+
+Deloitte Analytics
+
+Executive client presentation
+
+If it feels “pretty,” it’s wrong.
+If it feels calm, expensive, and inevitable, it’s right.
